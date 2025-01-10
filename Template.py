@@ -2,7 +2,7 @@ import os
 from pathlib import Path
 import logging
 
-logging.basicConfig(level =logging.INFO, format ='[%(asctime)s]:%(message)s:')
+logging.basicConfig(level =logging.INFO, format ='[%(asctime)s]:%(message)s:') #Time and execution name
 
 project_name = "ML_Project"
 
