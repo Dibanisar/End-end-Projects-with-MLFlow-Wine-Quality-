@@ -1,4 +1,5 @@
 pandas
+python-box
 mlflow==2.2.2
 notebook
 numpy

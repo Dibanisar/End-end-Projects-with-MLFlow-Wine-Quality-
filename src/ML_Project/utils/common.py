@@ -1,5 +1,5 @@
 import os
-from box import BoxValueError
+from box.exceptions import BoxError
 import yaml
 from src.ML_Project import Logger
 import json
@@ -21,7 +21,7 @@ def read_yaml(path_to_yaml:Path)  -> ConfigBox:
             content = yaml.safe_load(yaml_file)
             Logger.info(f"yaml file :{path_to_yaml} loaded successfully")
             return ConfigBox(content)
-    except BoxValueError:
+    except BoxError:
         raise ValueError("yalm file empty")
     except Exception as e:
         raise e
@@ -86,8 +86,8 @@ def load_bin(path:Path)-> Any:
 
 
 @ensure_annotations
-def get_size(path:Path)->str:
-    
-    
-    size_in_kb = round(os.path.getsize(path/1024))
+def get_size(path: Path) -> str:
+    """Calculate file size and return it as a string in KB."""
+    size_in_bytes = os.path.getsize(path)  # Get size in bytes
+    size_in_kb = round(size_in_bytes / 1024)  # Convert bytes to kilobytes
     return f"~{size_in_kb} KB"
