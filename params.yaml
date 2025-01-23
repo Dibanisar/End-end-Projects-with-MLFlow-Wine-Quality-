@@ -1,1 +1,7 @@
-key: val
+# Here put the parameters you want for the model you are using
+
+ElasticNet:
+  alpha: 0.5
+  l1_ratio: 0.7
+
+  

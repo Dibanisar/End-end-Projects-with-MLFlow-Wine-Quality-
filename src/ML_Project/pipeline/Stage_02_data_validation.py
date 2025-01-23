@@ -3,7 +3,7 @@ from src.ML_Project.components.data_validation import DataValidation
 from src.ML_Project import Logger
 
 
-STAGE_NAME = "Data IValidation stage"
+STAGE_NAME = "Data Validation stage"
 
 class DataValidationPipeline:
     def __init__(self):
