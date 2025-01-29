@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/diban/Documents/End-end%20ML%20project%20with%20MLFlow/End-end-Projects-with-MLFlow/mlruns/0/3dd22e7715fa46548f084819bb05b486/artifacts
+end_time: 1738059710265
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3dd22e7715fa46548f084819bb05b486
+run_name: salty-sponge-331
+run_uuid: 3dd22e7715fa46548f084819bb05b486
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738059710166
+status: 4
+tags: []
+user_id: diban

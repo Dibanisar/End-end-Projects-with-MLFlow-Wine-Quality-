@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/diban/Documents/End-end%20ML%20project%20with%20MLFlow/End-end-Projects-with-MLFlow/mlruns/0/ff6ae4fb824b4ce0bdeda3e888a9efbf/artifacts
+end_time: 1738140306101
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ff6ae4fb824b4ce0bdeda3e888a9efbf
+run_name: abrasive-dog-681
+run_uuid: ff6ae4fb824b4ce0bdeda3e888a9efbf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738140289841
+status: 3
+tags: []
+user_id: diban

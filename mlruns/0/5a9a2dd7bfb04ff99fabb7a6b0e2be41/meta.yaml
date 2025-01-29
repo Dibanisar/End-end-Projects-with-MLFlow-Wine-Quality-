@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/diban/Documents/End-end%20ML%20project%20with%20MLFlow/End-end-Projects-with-MLFlow/mlruns/0/5a9a2dd7bfb04ff99fabb7a6b0e2be41/artifacts
+end_time: 1737989036826
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5a9a2dd7bfb04ff99fabb7a6b0e2be41
+run_name: rare-worm-945
+run_uuid: 5a9a2dd7bfb04ff99fabb7a6b0e2be41
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737989036727
+status: 4
+tags: []
+user_id: diban

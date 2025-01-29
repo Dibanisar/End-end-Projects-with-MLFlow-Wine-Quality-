@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/diban/Documents/End-end%20ML%20project%20with%20MLFlow/End-end-Projects-with-MLFlow/mlruns/0/e8cfaec3cd68425aab8a6790c2bcf9e3/artifacts
+end_time: 1738139057438
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e8cfaec3cd68425aab8a6790c2bcf9e3
+run_name: efficient-hare-726
+run_uuid: e8cfaec3cd68425aab8a6790c2bcf9e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738139057295
+status: 4
+tags: []
+user_id: diban

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/diban/Documents/End-end%20ML%20project%20with%20MLFlow/End-end-Projects-with-MLFlow/mlruns/0/97800a5d9e3843b58c181f77984f2deb/artifacts
+end_time: 1738140656204
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 97800a5d9e3843b58c181f77984f2deb
+run_name: aged-grouse-125
+run_uuid: 97800a5d9e3843b58c181f77984f2deb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738140645155
+status: 3
+tags: []
+user_id: diban

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/diban/Documents/End-end%20ML%20project%20with%20MLFlow/End-end-Projects-with-MLFlow/mlruns/0/31c7f22539a24faab61842bc0d3521f9/artifacts
+end_time: 1738142021127
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 31c7f22539a24faab61842bc0d3521f9
+run_name: crawling-hog-781
+run_uuid: 31c7f22539a24faab61842bc0d3521f9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738142011599
+status: 3
+tags: []
+user_id: diban
